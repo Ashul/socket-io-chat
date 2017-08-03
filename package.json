@@ -1,0 +1,13 @@
+{
+  "name": "myfirstchat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "private": false,
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "^4.11.5",
+    "morgan": "latest",
+    "nodemon": "latest",
+    "socket.io": "^2.0.3"
+  }
+}
